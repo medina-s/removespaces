@@ -1,10 +1,18 @@
 {
-  "name": "msydyka/buildnpm",
+  "name": "@msydyka/removespaces",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
 
-  "keywords": [],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/medina-s/removespaces.git"
+  },
+
+  "keywords": [
+    "removespaces",
+    "msydyka"
+  ],
   "author": "",
   "license": "ISC"
 }
